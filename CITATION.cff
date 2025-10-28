@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "IndicSafe: Multilingual Safety Benchmark for Indic Languages"
+authors:
+  - family-names: "Pattnayak"
+    given-names: "P."
+version: "0.1"
+date-released: "2025-10-28"
+repository-code: "https://github.com/ppattnayak/indicsafe"
+message: "If you use this work, please cite the ARR 2025 version."
