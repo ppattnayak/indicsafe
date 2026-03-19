@@ -51,10 +51,12 @@ If you’d like to reference or discuss this work, please cite the following pap
 
 BibTeX:
 ```bibtex
-@article{indicsafe2025,
-  title={IndicSafe: Multilingual Safety Benchmark for Indic Languages},
-  author={Pattnayak, P. and others},
-  year={2025},
-  journal={ARR},
-  note={Planned commitment to ACL 2026}
+@misc{pattnayak2026indicsafebenchmarkevaluatingmultilingual,
+      title={IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia}, 
+      author={Priyaranjan Pattnayak and Sanchari Chowdhuri},
+      year={2026},
+      eprint={2603.17915},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.17915}, 
 }
