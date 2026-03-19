@@ -47,7 +47,7 @@ If you’d like to reference or discuss this work, please cite the following pap
 
 > **IndicSafe: Multilingual Safety Benchmark for Indic Languages**  
 > (Arxiv Link) 
-> ARR 2025 (Meta Score 4) — Planned commitment to ACL 2026
+> ARR 2025 — Planned commitment to ACL 2026
 
 BibTeX:
 ```bibtex
