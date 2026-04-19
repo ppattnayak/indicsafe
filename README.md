@@ -49,14 +49,3 @@ If you’d like to reference or discuss this work, please cite the following pap
 > (Arxiv Link) 
 > ARR 2025 — Planned commitment to ACL 2026
 
-BibTeX:
-```bibtex
-@misc{pattnayak2026indicsafebenchmarkevaluatingmultilingual,
-      title={IndicSafe: A Benchmark for Evaluating Multilingual LLM Safety in South Asia}, 
-      author={Priyaranjan Pattnayak and Sanchari Chowdhuri},
-      year={2026},
-      eprint={2603.17915},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2603.17915}, 
-}
